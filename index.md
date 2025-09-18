@@ -74,3 +74,10 @@ layout: default
 
 　　（最后啰嗦一句：所有信息基于2025年初的调研，通信行业变化快，出发前最好再去运营商官网瞟一眼最新套餐哦！）
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cayman Islands SIM 卡购买与激活指南](https://faciylike.github.io/cayman-islands-sim-guides)
